@@ -26,7 +26,7 @@ background: linear-gradient(to right, #F0CB35, #C02425); /* W3C, IE 10+/ Edge, F
     height: 50vh;
 }
 img{
-    width: 100px;
+    width: auto;
     object-fit: cover;
     height: 200px;
     filter: drop-shadow(1px 1px 5px rgb(204, 175, 175));
